@@ -1,0 +1,271 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="tXwLF1ivmN2SxBjSCiUW">
+    <mxGraphModel dx="3354" dy="1086" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="y3ft_PJpvQ_m0SZfP6zN-1" parent="1" style="html=1;whiteSpace=wrap;" value="HOME" vertex="1">
+          <mxGeometry height="50" width="110" x="-510" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="y3ft_PJpvQ_m0SZfP6zN-2" parent="1" style="html=1;whiteSpace=wrap;" value="LOGOUT" vertex="1">
+          <mxGeometry height="50" width="110" x="-240" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="y3ft_PJpvQ_m0SZfP6zN-4" parent="1" style="html=1;whiteSpace=wrap;" value="AUTENTICAZIONE" vertex="1">
+          <mxGeometry height="50" width="110" x="30" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="y3ft_PJpvQ_m0SZfP6zN-5" parent="1" style="html=1;whiteSpace=wrap;" value="GESTIONE PRENOTAZIONI" vertex="1">
+          <mxGeometry height="50" width="110" x="290" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="y3ft_PJpvQ_m0SZfP6zN-6" parent="1" style="html=1;whiteSpace=wrap;" value="PAGINA PROFILO" vertex="1">
+          <mxGeometry height="50" width="110" x="-510" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="y3ft_PJpvQ_m0SZfP6zN-7" parent="1" style="html=1;whiteSpace=wrap;" value="CATALOGO" vertex="1">
+          <mxGeometry height="50" width="110" x="-840" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="y3ft_PJpvQ_m0SZfP6zN-8" parent="1" style="html=1;whiteSpace=wrap;" value="DASHBOARD" vertex="1">
+          <mxGeometry height="50" width="110" x="-1240" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="y3ft_PJpvQ_m0SZfP6zN-9" parent="1" style="html=1;whiteSpace=wrap;" value="GESTIONE CATALOGO" vertex="1">
+          <mxGeometry height="50" width="110" x="-1160" y="850" as="geometry" />
+        </mxCell>
+        <mxCell id="y3ft_PJpvQ_m0SZfP6zN-10" parent="1" style="html=1;whiteSpace=wrap;" value="GESTIONE LETTORI" vertex="1">
+          <mxGeometry height="50" width="110" x="-1160" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="y3ft_PJpvQ_m0SZfP6zN-12" parent="1" style="html=1;whiteSpace=wrap;" value="SOSPENSIONE LETTORE" vertex="1">
+          <mxGeometry height="50" width="110" x="-1030" y="510" as="geometry" />
+        </mxCell>
+        <mxCell id="y3ft_PJpvQ_m0SZfP6zN-13" parent="1" style="html=1;whiteSpace=wrap;" value="MODIFICA LETTORE" vertex="1">
+          <mxGeometry height="50" width="110" x="-1030" y="580" as="geometry" />
+        </mxCell>
+        <mxCell id="y3ft_PJpvQ_m0SZfP6zN-14" parent="1" style="html=1;whiteSpace=wrap;" value="REGISTRAZOINE LETTORE" vertex="1">
+          <mxGeometry height="50" width="110" x="-1030" y="650" as="geometry" />
+        </mxCell>
+        <mxCell id="y3ft_PJpvQ_m0SZfP6zN-17" parent="1" style="html=1;whiteSpace=wrap;" value="MODIFICA EDIZIONE" vertex="1">
+          <mxGeometry height="50" width="110" x="-1070" y="930" as="geometry" />
+        </mxCell>
+        <mxCell id="y3ft_PJpvQ_m0SZfP6zN-18" parent="1" style="html=1;whiteSpace=wrap;" value="AGGIUNGI EDIZOINE" vertex="1">
+          <mxGeometry height="50" width="110" x="-1070" y="1010" as="geometry" />
+        </mxCell>
+        <mxCell id="y3ft_PJpvQ_m0SZfP6zN-19" parent="1" style="html=1;whiteSpace=wrap;" value="GESTIONE COPIE EDIZIONE" vertex="1">
+          <mxGeometry height="50" width="110" x="-1070" y="1090" as="geometry" />
+        </mxCell>
+        <mxCell id="y3ft_PJpvQ_m0SZfP6zN-20" parent="1" style="html=1;whiteSpace=wrap;" value="EDIZIONE" vertex="1">
+          <mxGeometry height="50" width="110" x="-740" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="y3ft_PJpvQ_m0SZfP6zN-26" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;defaultLabelBackgroundColor=page;entryX=0.457;entryY=0.993;entryDx=0;entryDy=0;entryPerimeter=0;" target="y3ft_PJpvQ_m0SZfP6zN-1" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="-460" y="200" as="sourcePoint" />
+            <mxPoint x="-400" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y3ft_PJpvQ_m0SZfP6zN-27" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;defaultLabelBackgroundColor=page;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="-1190" y="200" as="sourcePoint" />
+            <mxPoint x="350" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y3ft_PJpvQ_m0SZfP6zN-28" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;defaultLabelBackgroundColor=page;" target="y3ft_PJpvQ_m0SZfP6zN-8" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="-1185" y="1200" as="sourcePoint" />
+            <mxPoint x="-1190" y="510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y3ft_PJpvQ_m0SZfP6zN-29" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;defaultLabelBackgroundColor=page;" target="y3ft_PJpvQ_m0SZfP6zN-7" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="-785" y="380" as="sourcePoint" />
+            <mxPoint x="-700" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y3ft_PJpvQ_m0SZfP6zN-30" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=page;" target="y3ft_PJpvQ_m0SZfP6zN-10" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="-1190" y="385" as="sourcePoint" />
+            <mxPoint x="-1200" y="580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y3ft_PJpvQ_m0SZfP6zN-32" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=page;" target="y3ft_PJpvQ_m0SZfP6zN-12" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="-1060" y="535" as="sourcePoint" />
+            <mxPoint x="-1110" y="590" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y3ft_PJpvQ_m0SZfP6zN-33" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;defaultLabelBackgroundColor=page;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="-1055" y="820" as="sourcePoint" />
+            <mxPoint x="-1055" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y3ft_PJpvQ_m0SZfP6zN-34" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=page;" target="y3ft_PJpvQ_m0SZfP6zN-13" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="-1060" y="610" as="sourcePoint" />
+            <mxPoint x="-1060" y="580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y3ft_PJpvQ_m0SZfP6zN-35" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=page;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="-1060" y="674.5" as="sourcePoint" />
+            <mxPoint x="-1030" y="674.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y3ft_PJpvQ_m0SZfP6zN-36" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=page;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="-1190" y="880" as="sourcePoint" />
+            <mxPoint x="-1160" y="880" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y3ft_PJpvQ_m0SZfP6zN-37" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=page;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="-1100" y="954.5" as="sourcePoint" />
+            <mxPoint x="-1070" y="954.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y3ft_PJpvQ_m0SZfP6zN-38" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;defaultLabelBackgroundColor=page;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="-1100" y="1110" as="sourcePoint" />
+            <mxPoint x="-1100" y="900" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y3ft_PJpvQ_m0SZfP6zN-39" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=page;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="-1100" y="1034.5" as="sourcePoint" />
+            <mxPoint x="-1070" y="1034.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y3ft_PJpvQ_m0SZfP6zN-40" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=page;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="-1100" y="1110" as="sourcePoint" />
+            <mxPoint x="-1070" y="1110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y3ft_PJpvQ_m0SZfP6zN-41" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=page;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="y3ft_PJpvQ_m0SZfP6zN-20" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="-790" y="374.5" as="sourcePoint" />
+            <mxPoint x="-760" y="374.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y3ft_PJpvQ_m0SZfP6zN-42" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=page;" target="y3ft_PJpvQ_m0SZfP6zN-8" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="-1185" y="200" as="sourcePoint" />
+            <mxPoint x="-850" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y3ft_PJpvQ_m0SZfP6zN-43" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=page;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="-785.5" y="200" as="sourcePoint" />
+            <mxPoint x="-785.5" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y3ft_PJpvQ_m0SZfP6zN-44" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=page;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="-460" y="200" as="sourcePoint" />
+            <mxPoint x="-460" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y3ft_PJpvQ_m0SZfP6zN-45" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=page;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="-185.5" y="200" as="sourcePoint" />
+            <mxPoint x="-185.5" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y3ft_PJpvQ_m0SZfP6zN-46" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=page;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="80" y="200" as="sourcePoint" />
+            <mxPoint x="80" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y3ft_PJpvQ_m0SZfP6zN-47" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=page;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="350" y="200" as="sourcePoint" />
+            <mxPoint x="350" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y3ft_PJpvQ_m0SZfP6zN-48" parent="1" style="html=1;whiteSpace=wrap;" value="INFO REGISTRAZOINE" vertex="1">
+          <mxGeometry height="50" width="110" x="80" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="y3ft_PJpvQ_m0SZfP6zN-51" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=page;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="50" y="385" as="sourcePoint" />
+            <mxPoint x="80" y="385" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y3ft_PJpvQ_m0SZfP6zN-52" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;defaultLabelBackgroundColor=page;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="55" y="390" as="sourcePoint" />
+            <mxPoint x="55" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y3ft_PJpvQ_m0SZfP6zN-53" parent="1" style="html=1;whiteSpace=wrap;" value="GESTIONE PRESTITI" vertex="1">
+          <mxGeometry height="50" width="110" x="-1150" y="1170" as="geometry" />
+        </mxCell>
+        <mxCell id="y3ft_PJpvQ_m0SZfP6zN-54" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=page;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="-1190" y="1200" as="sourcePoint" />
+            <mxPoint x="-1150" y="1200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y3ft_PJpvQ_m0SZfP6zN-55" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;defaultLabelBackgroundColor=page;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="-1095.5" y="1280" as="sourcePoint" />
+            <mxPoint x="-1095.5" y="1220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y3ft_PJpvQ_m0SZfP6zN-56" parent="1" style="html=1;whiteSpace=wrap;" value="PAGINA COPIE EDIZIONE" vertex="1">
+          <mxGeometry height="50" width="110" x="-1070" y="1250" as="geometry" />
+        </mxCell>
+        <mxCell id="y3ft_PJpvQ_m0SZfP6zN-57" parent="1" style="html=1;whiteSpace=wrap;" value="REGISTRO PRESTITO" vertex="1">
+          <mxGeometry height="50" width="110" x="-1000" y="1330" as="geometry" />
+        </mxCell>
+        <mxCell id="y3ft_PJpvQ_m0SZfP6zN-58" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;defaultLabelBackgroundColor=page;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="-1030" y="1350" as="sourcePoint" />
+            <mxPoint x="-1030" y="1300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y3ft_PJpvQ_m0SZfP6zN-59" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=page;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="-1100" y="1274.5" as="sourcePoint" />
+            <mxPoint x="-1070" y="1274.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y3ft_PJpvQ_m0SZfP6zN-60" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=page;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="-1030" y="1350" as="sourcePoint" />
+            <mxPoint x="-1000" y="1350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y3ft_PJpvQ_m0SZfP6zN-61" parent="1" style="html=1;whiteSpace=wrap;" value="PROFILO LETTORE" vertex="1">
+          <mxGeometry height="50" width="110" x="-1090" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="y3ft_PJpvQ_m0SZfP6zN-62" parent="1" style="html=1;whiteSpace=wrap;" value="&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span style=&quot;white-space: pre-wrap;&quot;&gt;REGISTRAZIONE PRESTITO COPIA RISERVATA&lt;/span&gt;" vertex="1">
+          <mxGeometry height="50" width="110" x="-1030" y="720" as="geometry" />
+        </mxCell>
+        <mxCell id="y3ft_PJpvQ_m0SZfP6zN-63" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=page;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="-1120" y="465" as="sourcePoint" />
+            <mxPoint x="-1090" y="465" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y3ft_PJpvQ_m0SZfP6zN-64" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;defaultLabelBackgroundColor=page;entryX=0.409;entryY=0.992;entryDx=0;entryDy=0;entryPerimeter=0;" target="y3ft_PJpvQ_m0SZfP6zN-10" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="-1115" y="470" as="sourcePoint" />
+            <mxPoint x="-1115" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y3ft_PJpvQ_m0SZfP6zN-65" parent="1" style="html=1;whiteSpace=wrap;" value="&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span style=&quot;white-space: pre-wrap;&quot;&gt;REGISTRAZIONE RESTITUZIONE PRESTITO&lt;/span&gt;" vertex="1">
+          <mxGeometry height="50" width="110" x="-1030" y="790" as="geometry" />
+        </mxCell>
+        <mxCell id="y3ft_PJpvQ_m0SZfP6zN-66" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=page;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="-1060" y="740" as="sourcePoint" />
+            <mxPoint x="-1030" y="740" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y3ft_PJpvQ_m0SZfP6zN-67" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=page;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="-1060" y="814.5" as="sourcePoint" />
+            <mxPoint x="-1030" y="814.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
